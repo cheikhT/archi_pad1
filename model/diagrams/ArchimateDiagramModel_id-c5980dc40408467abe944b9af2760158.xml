@@ -2,18 +2,17 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New ArchiMate View"
-    id="id-b45b519eebe94ce98edcd42ddf6c58e5"
-    viewpoint="layered">
+    id="id-c5980dc40408467abe944b9af2760158">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7810af9a98b749cda7cd182622aa461b">
+      id="id-cc70bc138f7f4577bc288da3dce1af70">
     <bounds
-        x="228"
-        y="216"
+        x="688"
+        y="294"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-6ea956fd063344e591559bfa6ef4738f.xml#id-6ea956fd063344e591559bfa6ef4738f"/>
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-363ef2667c304382839fff1ee1c724d1.xml#id-363ef2667c304382839fff1ee1c724d1"/>
   </children>
 </archimate:ArchimateDiagramModel>
